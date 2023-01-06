@@ -9,7 +9,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)   
 
 ## Projects
-- 마크다운을 지원하는 SNS, **모헤윰** [[Repo](https://github.com/boostcampwm-2022/web34-moheyum) | [Notion](https://polarlsm.notion.site/Moheyum-4c54f7ce6bc348bd84121578d4079b50) | [Link](https://moheyum.ga/)]  
+- 마크다운을 지원하는 SNS, **모헤윰** [[Repo](https://github.com/boostcampwm-2022/web34-moheyum) | [Notion](https://polarlsm.notion.site/Moheyum-4c54f7ce6bc348bd84121578d4079b50) | Link(expired)]  
 
 ## Education
 - 네이버 커넥트재단 부스트캠프 웹·모바일 7기 (2022.07 ~ 2022.12)
