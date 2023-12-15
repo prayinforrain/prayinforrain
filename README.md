@@ -1,5 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprayinforrain&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-- `Next.js`와 `Typescript`를 주로 사용하여 개발하는 프론트엔드 개발자입니다.
+- `React`와 `Typescript`를 주로 사용하여 개발하는 프론트엔드 개발자입니다.
 - **말을 할 줄 아는 개발자**가 되어 커뮤니티에 기여하는 것이 목표입니다.
 - 저의 이력서는 [[랠릿]](https://www.rallit.com/resumes/229210@prayinforrain/%EC%9D%B4%EC%9A%B0%EC%9E%AC)에서 확인해 주세요.
 
