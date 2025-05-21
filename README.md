@@ -1,6 +1,6 @@
-- `React`와 `Typescript`를 주로 사용하여 개발하는 프론트엔드 개발자입니다.
-- 저의 이력서는 [[랠릿]](https://www.rallit.com/resumes/229210@prayinforrain/%EC%9D%B4%EC%9A%B0%EC%9E%AC)에서 확인해 주세요.
-✉️: prayinforrain@naver.com
+- `React`와 `Typescript`를 주로 사용하여 개발하는 프론트엔드 개발자입니다.  
+
+[Resume](https://docs.google.com/document/d/1-9OzSxANsGvspz4n4n35XQpRCRgeMbe3dedby_p0Y0g/edit) | ✉️: prayinforrain@naver.com
 
 ## Techstacks
 
