@@ -1,6 +1,6 @@
 - `React`와 `Typescript`를 주로 사용하여 개발하는 프론트엔드 개발자입니다.  
 
-[Resume](https://docs.google.com/document/d/1-9OzSxANsGvspz4n4n35XQpRCRgeMbe3dedby_p0Y0g/edit) | ✉️: prayinforrain@naver.com / prayinforrain96@gmail.com
+[Resume](https://docs.google.com/document/d/1AJHYFpaYrquhcOzxgD2mM6KW1_zBRMzNWUqd7726dNk/edit) | ✉️: prayinforrain@naver.com / prayinforrain96@gmail.com
 
 ## Techstacks
 
